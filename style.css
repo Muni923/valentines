@@ -1,0 +1,32 @@
+body{text-align: center;
+    color: rgb(234, 86, 110) ;
+    font-family:'poppins',sans-serif;
+    background-image:url('download.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h2{
+    font-family:cursive;
+    color: red;
+}
+p{
+    font font-family: times-new-roman
+    font size : 20;
+    color:rgb(25, 4, 103);
+
+}
+figure{color: rgb(98, 16, 249);}
+button:bover ,stars{
+    display :block;
+    filter:drop-shadow(0 0 100px blue);
+}
+img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 3px solid #4ecc57;
+    width:150;
+    height:150;
+}
+h3{color: azure;
+font-family:cursive}
